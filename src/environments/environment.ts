@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: "AIzaSyAAxLJjxaPFInPCTGETmILAV5IHUxd8IJ8",
-    authDomain: "login-3ac6c.firebaseapp.com",
-    projectId: "login-3ac6c",
-    storageBucket: "login-3ac6c.appspot.com",
-    messagingSenderId: "546501173884",
-    appId: "1:546501173884:web:57b6d036f95b2d16ebdff9"
+    apiKey: 'AIzaSyC47AMfhjCTbBdH7X2-u3S6YdPursldDuE',
+    authDomain: 'proyecto-gina-a9700.firebaseapp.com',
+    projectId: 'proyecto-gina-a9700',
+    storageBucket: 'proyecto-gina-a9700.appspot.com',
+    messagingSenderId: '204542506942',
+    appId: '1:204542506942:web:8810a04d7d27bfd57c6bef',
   }
 };
 
