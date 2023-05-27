@@ -15,12 +15,13 @@ export class DashboardComponent implements OnInit {
 
   ngOnInit(): void {
     this.afAuth.currentUser.then(user => {
-      if(user && user.emailVerified) {
+      /*if(user && user.emailVerified) {
         this.dataUser = user;
         console.log(user)
       } else {
         this.router.navigate(['/login']);
-      }
+      }*/
+      this.dataUser = user;
     })
   }
 
